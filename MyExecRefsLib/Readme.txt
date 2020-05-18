@@ -1,5 +1,6 @@
-"MathMatrix.h" is the library header file that does the matrix Multipication and Transposition.
-Steps:
+**"MathMatrix.h"** is the library header file that does the matrix Multipication and Transposition.
+
+**Steps:**
 
 1) Compile the Main.cpp file under MyExecRefsLib folder using g++ compiler
 
@@ -9,7 +10,7 @@ Steps:
 
 
 
-Details:
+**Details:**
 
 	1) Main.cpp is created such that it asks for number of rows and columns for Matrix 1 and Matrix 2 and then the values.
 
