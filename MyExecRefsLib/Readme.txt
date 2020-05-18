@@ -1,4 +1,4 @@
-
+"MathMatrix.h" is the library header file that does the matrix Multipication and Transposition.
 Steps:
 
 1) Compile the Main.cpp file under MyExecRefsLib folder using g++ compiler
