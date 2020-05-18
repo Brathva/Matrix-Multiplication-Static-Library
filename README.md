@@ -1,10 +1,10 @@
-# Matrix-Multiplication-and-Transposition-static-Library
+#Matrix-Multiplication-and-Transposition-static-Library
 Matrix Multiplication and Transposition high-performance, portable linear algebra library using only standard libraries. Program is implemented in standard C++11. 
 
 Compiler command used to compile source file: g++ main.cpp -std=c++11 -lthread
 
 
-#Steps:
+**##Steps:
 
 1) Compile the Main.cpp file under MyExecRefsLib folder using g++ compiler
 
@@ -14,7 +14,7 @@ Compiler command used to compile source file: g++ main.cpp -std=c++11 -lthread
 
 
 
-##Details:
+**##Details:
 
 	1) Main.cpp is created such that it asks for number of rows and columns for Matrix 1 and Matrix 2 and then the values.
 
